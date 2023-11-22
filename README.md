@@ -1,5 +1,5 @@
 # CosmoTransitionsV2
-A branch of CosmoTransitions with a few tweeks and upgrades
+A branch of CosmoTransitions with a few tweeks and upgrades.
 The original package with documentation is found [here](https://github.com/clwainwright/CosmoTransitions)
 
 Feel free to cite the original work of the original author:
